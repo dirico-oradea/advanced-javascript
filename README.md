@@ -1,5 +1,5 @@
 # advanced-javascript
-First lessons about the frontend
+Second lessons about the frontend
 
 ## Lessons:
 - Advanced Javascript 
